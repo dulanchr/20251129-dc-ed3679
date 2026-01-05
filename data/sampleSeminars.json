@@ -1,0 +1,74 @@
+{
+  "seminars": [
+    {
+      "id": "sem-001",
+      "title": "AI in Education: Transforming Learning",
+      "description": "Explore how artificial intelligence is reshaping educational methodologies and student outcomes.",
+      "speaker": "Dr. Amanda Foster",
+      "speakerTitle": "AI Research Director, EdTech Institute",
+      "date": "2025-02-15T14:00:00Z",
+      "endTime": "2025-02-15T16:00:00Z",
+      "location": "Main Auditorium, Building A",
+      "capacity": 200,
+      "registered": 145,
+      "status": "upcoming",
+      "tags": ["AI", "Education", "Technology"]
+    },
+    {
+      "id": "sem-002",
+      "title": "Career Paths in Software Engineering",
+      "description": "Industry experts share insights on building a successful career in software development.",
+      "speaker": "Panel Discussion",
+      "speakerTitle": "Senior Engineers from Google, Microsoft, and Amazon",
+      "date": "2025-03-01T10:00:00Z",
+      "endTime": "2025-03-01T12:30:00Z",
+      "location": "Conference Hall B",
+      "capacity": 150,
+      "registered": 89,
+      "status": "upcoming",
+      "tags": ["Career", "Software", "Panel"]
+    },
+    {
+      "id": "sem-003",
+      "title": "Data Science Workshop: From Theory to Practice",
+      "description": "Hands-on workshop covering data analysis, visualization, and machine learning basics.",
+      "speaker": "Prof. Kevin Zhang",
+      "speakerTitle": "Data Science Lead, Analytics Corp",
+      "date": "2025-03-20T09:00:00Z",
+      "endTime": "2025-03-20T17:00:00Z",
+      "location": "Computer Lab 3, Building C",
+      "capacity": 40,
+      "registered": 38,
+      "status": "upcoming",
+      "tags": ["Data Science", "Workshop", "Hands-on"]
+    },
+    {
+      "id": "sem-004",
+      "title": "Introduction to Blockchain Technology",
+      "description": "Understanding blockchain fundamentals and its applications beyond cryptocurrency.",
+      "speaker": "Dr. Rachel Green",
+      "speakerTitle": "Blockchain Researcher, Tech University",
+      "date": "2024-11-10T13:00:00Z",
+      "endTime": "2024-11-10T15:00:00Z",
+      "location": "Lecture Hall 2",
+      "capacity": 120,
+      "registered": 115,
+      "status": "past",
+      "tags": ["Blockchain", "Crypto", "Technology"]
+    },
+    {
+      "id": "sem-005",
+      "title": "Cybersecurity Trends 2024",
+      "description": "Review of major cybersecurity incidents and emerging threat landscapes.",
+      "speaker": "Mark Thompson",
+      "speakerTitle": "CISO, SecureNet Solutions",
+      "date": "2024-10-25T11:00:00Z",
+      "endTime": "2024-10-25T13:00:00Z",
+      "location": "Main Auditorium, Building A",
+      "capacity": 180,
+      "registered": 172,
+      "status": "past",
+      "tags": ["Security", "Trends", "Industry"]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "classes": [
+    {
+      "id": "ict-001",
+      "title": "Introduction to Web Development",
+      "category": "ICT",
+      "description": "Learn HTML, CSS, and JavaScript fundamentals",
+      "instructor": "Dr. Sarah Chen",
+      "duration": "12 weeks",
+      "level": "Beginner",
+      "schedule": "Mon/Wed 10:00 AM - 12:00 PM",
+      "capacity": 30,
+      "enrolled": 24
+    },
+    {
+      "id": "ict-002",
+      "title": "Database Management Systems",
+      "category": "ICT",
+      "description": "SQL, NoSQL, and database design principles",
+      "instructor": "Prof. Michael Torres",
+      "duration": "10 weeks",
+      "level": "Intermediate",
+      "schedule": "Tue/Thu 2:00 PM - 4:00 PM",
+      "capacity": 25,
+      "enrolled": 20
+    },
+    {
+      "id": "ict-003",
+      "title": "Python Programming",
+      "category": "ICT",
+      "description": "From basics to advanced Python development",
+      "instructor": "Dr. Emily Watson",
+      "duration": "14 weeks",
+      "level": "Beginner",
+      "schedule": "Mon/Wed/Fri 9:00 AM - 10:30 AM",
+      "capacity": 35,
+      "enrolled": 32
+    },
+    {
+      "id": "ict-004",
+      "title": "Cybersecurity Fundamentals",
+      "category": "ICT",
+      "description": "Network security, encryption, and ethical hacking",
+      "instructor": "Prof. James Mitchell",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "schedule": "Sat 9:00 AM - 1:00 PM",
+      "capacity": 20,
+      "enrolled": 18
+    },
+    {
+      "id": "ict-005",
+      "title": "Cloud Computing with AWS",
+      "category": "ICT",
+      "description": "AWS services, deployment, and cloud architecture",
+      "instructor": "Dr. Lisa Park",
+      "duration": "10 weeks",
+      "level": "Advanced",
+      "schedule": "Tue/Thu 6:00 PM - 8:00 PM",
+      "capacity": 25,
+      "enrolled": 22
+    },
+    {
+      "id": "ict-006",
+      "title": "Mobile App Development",
+      "category": "ICT",
+      "description": "Build iOS and Android apps with React Native",
+      "instructor": "Prof. David Kim",
+      "duration": "12 weeks",
+      "level": "Intermediate",
+      "schedule": "Wed/Fri 3:00 PM - 5:00 PM",
+      "capacity": 28,
+      "enrolled": 25
+    },
+    {
+      "id": "math-001",
+      "title": "Calculus I",
+      "category": "Math",
+      "description": "Limits, derivatives, and introduction to integrals",
+      "instructor": "Dr. Robert Anderson",
+      "duration": "16 weeks",
+      "level": "Beginner",
+      "schedule": "Mon/Wed/Fri 8:00 AM - 9:00 AM",
+      "capacity": 40,
+      "enrolled": 38
+    },
+    {
+      "id": "math-002",
+      "title": "Linear Algebra",
+      "category": "Math",
+      "description": "Vectors, matrices, and linear transformations",
+      "instructor": "Prof. Anna Martinez",
+      "duration": "14 weeks",
+      "level": "Intermediate",
+      "schedule": "Tue/Thu 10:00 AM - 12:00 PM",
+      "capacity": 35,
+      "enrolled": 30
+    },
+    {
+      "id": "math-003",
+      "title": "Statistics and Probability",
+      "category": "Math",
+      "description": "Descriptive statistics, probability theory, and inference",
+      "instructor": "Dr. William Brown",
+      "duration": "12 weeks",
+      "level": "Beginner",
+      "schedule": "Mon/Wed 2:00 PM - 3:30 PM",
+      "capacity": 45,
+      "enrolled": 42
+    },
+    {
+      "id": "math-004",
+      "title": "Discrete Mathematics",
+      "category": "Math",
+      "description": "Logic, sets, graphs, and combinatorics",
+      "instructor": "Prof. Jennifer Lee",
+      "duration": "10 weeks",
+      "level": "Intermediate",
+      "schedule": "Fri 1:00 PM - 4:00 PM",
+      "capacity": 30,
+      "enrolled": 27
+    }
+  ]
+}

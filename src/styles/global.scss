@@ -1,0 +1,19 @@
+// Global SCSS styles
+// You can add SCSS variables, mixins, and functions here
+
+// Variables
+$primary-color: hsl(222.2 47.4% 11.2%);
+$secondary-color: hsl(210 40% 96.1%);
+
+// Mixins
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin transition($property: all, $duration: 0.3s, $timing: ease) {
+  transition: $property $duration $timing;
+}
+
+// Add any global SCSS styles below
